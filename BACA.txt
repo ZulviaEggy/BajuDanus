@@ -1,0 +1,3 @@
+tabel jual = /jual
+tabel create jual = /jual/create
+gambar belum muncul, gimana caranya?
